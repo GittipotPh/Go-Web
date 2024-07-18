@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/GittipotPh/Go-Web/pkg/config"
-	"github.com/GittipotPh/Go-Web/pkg/handlers"
-	"github.com/GittipotPh/Go-Web/pkg/render"
+	"github.com/GittipotPh/Go-Web/internal/config"
+	"github.com/GittipotPh/Go-Web/internal/handlers"
+	"github.com/GittipotPh/Go-Web/internal/render"
 	"github.com/alexedwards/scs/v2"
 	// "path/filepath"
 )
